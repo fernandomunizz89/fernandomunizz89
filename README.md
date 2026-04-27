@@ -3,6 +3,11 @@
 </div>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Based%20in-Braga%2C%20Portugal-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Remote-Global%20Teams%20%7C%20All%20Time%20Zones-2CA5E0?style=for-the-badge&logo=globe&logoColor=white" alt="Remote" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=fernandomunizz89&style=flat&color=70a5fd" alt="Profile views" />
 </p>
 
