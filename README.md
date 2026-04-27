@@ -70,3 +70,4 @@ Built loyalty and engagement platforms for British American Tobacco and retail p
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fernando.munizz89@gmail.com)
 
 Open to freelance and remote roles. Comfortable with product work from spec to production.
+
