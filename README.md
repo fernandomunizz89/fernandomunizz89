@@ -68,7 +68,7 @@ I bring enough Node, Postgres and Docker to argue with the API team in good fait
 
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](#)
 [![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=black)](#)
-[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)](#)
+[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0zIDdjMCA0IDMgOCA3IDhzNy00IDctOGMwLTEtMS0yLTItMkg1Yy0xIDAtMiAxLTIgMnptMTQgMWMyIDAgNCAyIDQgNXMtMiA1LTQgNWgtMmMyLTEgMy0zIDMtNXMtMS00LTMtNWgyek03IDljLjYgMCAxIC40IDEgMXMtLjQgMS0xIDEtMS0uNC0xLTEgLjQtMSAxLTF6bTYgMGMuNiAwIDEgLjQgMSAxcy0uNCAxLTEgMS0xLS40LTEtMSAuNC0xIDEtMXoiLz48L3N2Zz4%3D)](#)
 
 ### Backend (working knowledge) & tooling
 
