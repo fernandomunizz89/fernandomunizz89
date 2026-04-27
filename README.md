@@ -36,25 +36,27 @@ I bring enough Node, Postgres and Docker to argue with the API team in good fait
 
 ## 🧭 Quick facts
 
-| | |
-|---|---|
-| 🎯 **Focus** | Frontend Engineering · React · Next.js · React Native |
-| 🏗️ **Lately** | Fintech PWA · payments · KYC · design systems · micro-frontends |
-| 🌍 **Languages** | 🇵🇹 Portuguese (native) · 🇬🇧 English (fluent) · 🇪🇸 Spanish (basic) |
-| 🎓 **Cert** | SAFe® 6, Scaled Agile (2023) |
-| 🤝 **Open to** | Freelance · contract · permanent remote · interesting hybrid |
+<table>
+  <tr><td>🎯 <b>Focus</b></td><td>Frontend Engineering · React · Next.js · React Native</td></tr>
+  <tr><td>🏗️ <b>Lately</b></td><td>Fintech PWA · payments · KYC · design systems · micro-frontends</td></tr>
+  <tr><td>🌍 <b>Languages</b></td><td>🇵🇹 Portuguese (native) · 🇬🇧 English (fluent) · 🇪🇸 Spanish (basic)</td></tr>
+  <tr><td>🎓 <b>Cert</b></td><td>SAFe® 6, Scaled Agile (2023)</td></tr>
+  <tr><td>🤝 <b>Open to</b></td><td>Freelance · contract · permanent remote · interesting hybrid</td></tr>
+</table>
 
 ---
 
 ## 🛠️ Tech stack
 
-**Core**
+### Core
+
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
 [![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#)
 
-**State, data, UI**
+### State, data, UI
+
 [![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white)](#)
 [![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](#)
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](#)
@@ -62,12 +64,14 @@ I bring enough Node, Postgres and Docker to argue with the API team in good fait
 [![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)](#)
 [![Styled Components](https://img.shields.io/badge/Styled-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)](#)
 
-**Quality**
+### Quality
+
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](#)
 [![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=black)](#)
 [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)](#)
 
-**Backend (working knowledge) & tooling**
+### Backend (working knowledge) & tooling
+
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
