@@ -1,127 +1,161 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+%7C+React+%7C+React+Native;10%2B+years+in+production" alt="Typing SVG" />
+
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=400&color=70A5FD&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Fernando+%F0%9F%91%8B;Frontend+Engineer+%C2%B7+React+%C2%B7+Next.js+%C2%B7+TypeScript;10%2B+years+shipping+to+production;Currently+open+to+freelance+%26+full-time+roles">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=400&color=0969DA&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Fernando+%F0%9F%91%8B;Frontend+Engineer+%C2%B7+React+%C2%B7+Next.js+%C2%B7+TypeScript;10%2B+years+shipping+to+production;Currently+open+to+freelance+%26+full-time+roles">
+    <img alt="Frontend Engineer · React · Next.js · TypeScript" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=400&color=70A5FD&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Fernando+%F0%9F%91%8B;Frontend+Engineer+%C2%B7+React+%C2%B7+Next.js+%C2%B7+TypeScript;10%2B+years+shipping+to+production;Currently+open+to+freelance+%26+full-time+roles">
+  </picture>
+</a>
+
+[![Location](https://img.shields.io/badge/Braga%2C%20Portugal-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Braga)
+[![Remote](https://img.shields.io/badge/Remote%20%E2%80%A2%20CET-2CA5E0?style=for-the-badge&logo=googleearth&logoColor=white)](#)
+[![Available](https://img.shields.io/badge/Open%20to%20work-2EA043?style=for-the-badge&logo=githubactions&logoColor=white)](#contact)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=fernandomunizz89&style=for-the-badge&color=70a5fd&label=PROFILE+VIEWS">
+  <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=fernandomunizz89&style=for-the-badge&color=0969da&label=PROFILE+VIEWS">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=fernandomunizz89&style=for-the-badge&color=70a5fd&label=PROFILE+VIEWS">
+</picture>
+
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Based%20in-Braga%2C%20Portugal-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Remote-Global%20Teams%20%7C%20All%20Time%20Zones-2CA5E0?style=for-the-badge&logo=globe&logoColor=white" alt="Remote" />
-</p>
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fernandomunizz89&style=flat&color=70a5fd" alt="Profile views" />
-</p>
+## 👋 About
+
+I build frontends that survive the second refactor.
+
+10+ years shipping web and mobile products in **fintech, automotive, catering, legal tech and public security**, working with distributed teams across Portugal, France, Germany, Brazil and Dubai. Most of my last two years went into **Ka.app**, a payments PWA where a misplaced state update can move real EUR and crypto, which sharpens how you think about edge cases.
+
+I bring enough Node, Postgres and Docker to argue with the API team in good faith, without pretending to be a backend engineer.
+
+> What I optimize for: **clarity over cleverness, ship over polish-forever, flag the trade-off before it becomes a bill.**
 
 ---
 
-# Fernando Muniz
+## 🧭 Quick facts
 
-Software Engineer · Braga, Portugal 🇵🇹
-
-Full-stack engineer with 10+ years shipping production web and mobile applications. I've worked across fintech, automotive, enterprise, and public sector, with clients in Portugal, France, Germany, Brazil, and Dubai.
-
----
-
-## Technology Stack
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled%20Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Testing**
-
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=black)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-
-**Tools & Infra**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
-![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
+| | |
+|---|---|
+| 🎯 **Focus** | Frontend Engineering · React · Next.js · React Native |
+| 🏗️ **Lately** | Fintech PWA · payments · KYC · design systems · micro-frontends |
+| 🌍 **Languages** | 🇵🇹 Portuguese (native) · 🇬🇧 English (fluent) · 🇪🇸 Spanish (basic) |
+| 🎓 **Cert** | SAFe® 6, Scaled Agile (2023) |
+| 🤝 **Open to** | Freelance · contract · permanent remote · interesting hybrid |
 
 ---
 
-## Experience
+## 🛠️ Tech stack
 
-**Kasta** (2024 - 2025)
-Frontend engineer on Ka.app, a fintech PWA for digital payments, EUR/crypto conversions, and SEPA Instant transfers.
+**Core**
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
+[![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#)
 
-**CGI** (2021 - 2024)
-Full-stack across two long-running client projects: Volkswagen Group Deutschland (micro-frontend web system) and Compass Group France (hybrid mobile app for catering operations).
+**State, data, UI**
+[![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white)](#)
+[![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](#)
+[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](#)
+[![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](#)
+[![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)](#)
+[![Styled Components](https://img.shields.io/badge/Styled-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)](#)
 
-**Finxi Tecnologia** (2018 - 2020)
-Mobile apps for public security, integrated with the Rio de Janeiro state police and the Public Prosecutor of Sao Paulo. Also built a real-time geolocation app connecting clients to lawyers.
+**Quality**
+[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](#)
+[![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=black)](#)
+[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)](#)
 
-**iPremios.com** (2012 - 2017)
-Built loyalty and engagement platforms for British American Tobacco and retail partners, with real-time data pipelines and mobile apps used at scale.
+**Backend (working knowledge) & tooling**
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)](#)
+[![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)](#)
 
 ---
 
-## GitHub Stats
+## 💼 Highlights
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=fernandomunizz89&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=fernandomunizz89&show_icons=true&theme=default&hide_border=true&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=fernandomunizz89&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandomunizz89&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandomunizz89&layout=compact&theme=default&hide_border=true&langs_count=8" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandomunizz89&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
-  </picture>
-</p>
+### 🪙 Ka.app, Payments PWA at Kasta
+**Feb 2024 to Dec 2025 · Frontend Engineer**
+Shipped and maintained payment, deposit and withdrawal flows. Worked on EUR fiat onboarding, SEPA Instant transfers, KYC and onboarding UX. GraphQL data layer, Jest unit tests, Playwright E2E for the money paths.
+`React` `Next.js` `TypeScript` `GraphQL` `Playwright`
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=fernandomunizz89&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=fernandomunizz89&theme=default&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=fernandomunizz89&theme=default&hide_border=true" alt="GitHub Streak" />
-  </picture>
-</p>
+### 🚗 Volkswagen Group + 🍽️ Compass Group at CGI
+**Apr 2021 to Feb 2024 · Full Stack Developer**
+Two long-running international engagements in parallel. VW Group Deutschland: micro-frontend web platform with React, Redux and module federation. Compass Group France: hybrid mobile app for catering ops, React Native. Cypress and Jest covering both.
+`React` `React Native` `Redux` `Micro-frontends` `Node.js` `Cypress`
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=fernandomunizz89&theme=tokyo-night&hide_border=true&area=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=fernandomunizz89&theme=minimal&hide_border=true&area=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fernandomunizz89&theme=minimal&hide_border=true&area=true" alt="Activity Graph" />
-  </picture>
-</p>
+### 🍱 Catering hybrid app at Findmore Consulting
+**Sep 2020 to Apr 2021 · Full Stack Developer**
+Feature delivery on a React Native app for the catering industry. GraphQL integration, technical analysis, automated tests.
+`React Native` `TypeScript` `GraphQL` `PostgreSQL`
+
+<details>
+<summary>Earlier work (2012 to 2020)</summary>
+
+- **Loyalty & engagement platforms** for British American Tobacco and retail partners. Real-time pipelines, mobile apps used at scale.
+- **Public security mobile apps** integrated with Rio de Janeiro state police and the Public Prosecutor of São Paulo.
+- **Real-time geolocation product** connecting clients to lawyers.
+
+</details>
+
+---
+
+## 📊 GitHub in motion
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=fernandomunizz89&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=fernandomunizz89&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fernandomunizz89&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandomunizz89&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandomunizz89&layout=compact&theme=default&hide_border=true&langs_count=8">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandomunizz89&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=fernandomunizz89&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=fernandomunizz89&theme=default&hide_border=true">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=fernandomunizz89&theme=tokyonight&hide_border=true">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=fernandomunizz89&theme=tokyo-night&hide_border=true&area=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=fernandomunizz89&theme=github-light&hide_border=true&area=true">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=fernandomunizz89&theme=tokyo-night&hide_border=true&area=true">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fernandomunizz89/fernandomunizz89/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fernandomunizz89/fernandomunizz89/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/fernandomunizz89/fernandomunizz89/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/fernandomunizz89/fernandomunizz89/output/github-contribution-grid-snake.svg">
 </picture>
+
+</div>
 
 ---
 
-## Contact
+## 🤝 How I work
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-muniz)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fernando.munizz89@gmail.com)
+- **Async-first.** Written updates, clear scope, honest estimates.
+- **Boring delivery.** Conventional Commits, PR reviews, CI green before merge.
+- **Trade-offs out loud.** I'd rather flag the awkward decision early than apologize for it in three sprints.
+- **Onboarding included.** Docs, pairing, hand-off notes. I leave the codebase a bit better than I found it.
 
-Open to freelance and remote roles. Comfortable with product work from spec to production.
+---
 
+## 📬 Contact
+
+<a id="contact"></a>
+
+[![Malt](https://img.shields.io/badge/Hire%20me%20on%20Malt-FF5A5F?style=for-the-badge&logo=malt&logoColor=white)](https://www.malt.com/profile/fernandomuniz)
+[![LinkedIn](https://img.shields.io/badge/Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-muniz)
+[![Email](https://img.shields.io/badge/Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernando.munizz89@gmail.com)
+
+> **Recruiters & founders:** fastest path is a 2-line email with project, stack and timeline. Usually reply same day.
