@@ -2,9 +2,9 @@
 
 <a href="https://git.io/typing-svg">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=400&color=70A5FD&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Fernando+%F0%9F%91%8B;Frontend+Engineer+%C2%B7+React+%C2%B7+Next.js+%C2%B7+TypeScript;10%2B+years+shipping+to+production;Currently+open+to+freelance+%26+full-time+roles">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=400&color=0969DA&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Fernando+%F0%9F%91%8B;Frontend+Engineer+%C2%B7+React+%C2%B7+Next.js+%C2%B7+TypeScript;10%2B+years+shipping+to+production;Currently+open+to+freelance+%26+full-time+roles">
-    <img alt="Frontend Engineer · React · Next.js · TypeScript" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=400&color=70A5FD&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Fernando+%F0%9F%91%8B;Frontend+Engineer+%C2%B7+React+%C2%B7+Next.js+%C2%B7+TypeScript;10%2B+years+shipping+to+production;Currently+open+to+freelance+%26+full-time+roles">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=400&color=70A5FD&center=true&vCenter=true&width=720&lines=+Hi%2C+I'm+Fernando+%F0%9F%91%8B;+Frontend+Engineer+%C2%B7+React+%C2%B7+Next.js+%C2%B7+TypeScript;+10%2B+years+shipping+to+production;+Currently+open+to+freelance+%26+full-time+roles">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=400&color=0969DA&center=true&vCenter=true&width=720&lines=+Hi%2C+I'm+Fernando+%F0%9F%91%8B;+Frontend+Engineer+%C2%B7+React+%C2%B7+Next.js+%C2%B7+TypeScript;+10%2B+years+shipping+to+production;+Currently+open+to+freelance+%26+full-time+roles">
+    <img alt="Frontend Engineer · React · Next.js · TypeScript" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=400&color=70A5FD&center=true&vCenter=true&width=720&lines=+Hi%2C+I'm+Fernando+%F0%9F%91%8B;+Frontend+Engineer+%C2%B7+React+%C2%B7+Next.js+%C2%B7+TypeScript;+10%2B+years+shipping+to+production;+Currently+open+to+freelance+%26+full-time+roles">
   </picture>
 </a>
 
