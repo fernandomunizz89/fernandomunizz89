@@ -67,8 +67,8 @@ Built loyalty and engagement platforms for British American Tobacco and retail p
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=fernandomunizz89&theme=tokyo-night&hide_border=true&area=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=fernandomunizz89&theme=github&hide_border=true&area=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fernandomunizz89&theme=github&hide_border=true&area=true" alt="Activity Graph" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=fernandomunizz89&theme=minimal&hide_border=true&area=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fernandomunizz89&theme=minimal&hide_border=true&area=true" alt="Activity Graph" />
   </picture>
 </p>
 
