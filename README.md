@@ -2,15 +2,15 @@
 
 <a href="https://git.io/typing-svg">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=400&color=70A5FD&center=true&vCenter=true&width=900&height=50&lines=Hi%2C+I'm+Fernando+%F0%9F%91%8B;Frontend+Engineer+%C2%B7+React+%C2%B7+Next.js+%C2%B7+TypeScript;10%2B+years+shipping+to+production;Currently+open+to+freelance+%26+full-time+roles">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=400&color=0969DA&center=true&vCenter=true&width=900&height=50&lines=Hi%2C+I'm+Fernando+%F0%9F%91%8B;Frontend+Engineer+%C2%B7+React+%C2%B7+Next.js+%C2%B7+TypeScript;10%2B+years+shipping+to+production;Currently+open+to+freelance+%26+full-time+roles">
-    <img alt="Frontend Engineer · React · Next.js · TypeScript" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=400&color=70A5FD&center=true&vCenter=true&width=900&height=50&lines=Hi%2C+I'm+Fernando+%F0%9F%91%8B;Frontend+Engineer+%C2%B7+React+%C2%B7+Next.js+%C2%B7+TypeScript;10%2B+years+shipping+to+production;Currently+open+to+freelance+%26+full-time+roles">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=400&color=70A5FD&center=true&vCenter=true&width=900&height=50&lines=Hi%2C+I'm+Fernando+%F0%9F%91%8B;Frontend+Engineer+%C2%B7+React+%C2%B7+Next.js+%C2%B7+TypeScript;10%2B+years+shipping+to+production;Freelancing+and+building+side-projects+%E2%9C%A8">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=400&color=0969DA&center=true&vCenter=true&width=900&height=50&lines=Hi%2C+I'm+Fernando+%F0%9F%91%8B;Frontend+Engineer+%C2%B7+React+%C2%B7+Next.js+%C2%B7+TypeScript;10%2B+years+shipping+to+production;Freelancing+and+building+side-projects+%E2%9C%A8">
+    <img alt="Frontend Engineer · React · Next.js · TypeScript" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=400&color=70A5FD&center=true&vCenter=true&width=900&height=50&lines=Hi%2C+I'm+Fernando+%F0%9F%91%8B;Frontend+Engineer+%C2%B7+React+%C2%B7+Next.js+%C2%B7+TypeScript;10%2B+years+shipping+to+production;Freelancing+and+building+side-projects+%E2%9C%A8">
   </picture>
 </a>
 
 [![Location](https://img.shields.io/badge/Braga%2C%20Portugal-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Braga)
 [![Remote](https://img.shields.io/badge/Remote%20%E2%80%A2%20CET-2CA5E0?style=for-the-badge&logo=googleearth&logoColor=white)](#)
-[![Available](https://img.shields.io/badge/Open%20to%20work-2EA043?style=for-the-badge&logo=githubactions&logoColor=white)](#contact)
+[![Freelancing](https://img.shields.io/badge/Freelancing%20%26%20building-2EA043?style=for-the-badge&logo=githubactions&logoColor=white)](#contact)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=fernandomunizz89&style=for-the-badge&color=70a5fd&label=PROFILE+VIEWS">
@@ -24,11 +24,11 @@
 
 ## 👋 About
 
-I build frontends that survive the second refactor.
+I build frontends that survive the second refactor, and I do it on my own terms.
 
-10+ years shipping web and mobile products in **fintech, automotive, catering, legal tech and public security**, working with distributed teams across Portugal, France, Germany, Brazil and Dubai. Most of my last two years went into **Ka.app**, a payments PWA where a misplaced state update can move real EUR and crypto, which sharpens how you think about edge cases.
+10+ years shipping web and mobile products across **fintech, automotive, catering, legal tech and public security**, with distributed teams in Portugal, France, Germany, Brazil and Dubai. The last couple of years went into **Ka.app**, a payments PWA where a misplaced state update moves real EUR and crypto, which sharpens how you think about edge cases.
 
-I bring enough Node, Postgres and Docker to argue with the API team in good faith, without pretending to be a backend engineer.
+These days I freelance, take on selected client work, and spend the rest of my time building side-projects I actually want to use. Enough Node, Postgres and Docker to argue with the API team in good faith, without pretending to be a backend engineer.
 
 > What I optimize for: **clarity over cleverness, ship over polish-forever, flag the trade-off before it becomes a bill.**
 
@@ -41,7 +41,7 @@ I bring enough Node, Postgres and Docker to argue with the API team in good fait
   <tr><td>🏗️ <b>Lately</b></td><td>Fintech PWA · payments · KYC · design systems · micro-frontends</td></tr>
   <tr><td>🌍 <b>Languages</b></td><td>🇵🇹 Portuguese (native) · 🇬🇧 English (fluent) · 🇪🇸 Spanish (basic)</td></tr>
   <tr><td>🎓 <b>Cert</b></td><td>SAFe® 6, Scaled Agile (2023)</td></tr>
-  <tr><td>🤝 <b>Open to</b></td><td>Freelance · contract · permanent remote · interesting hybrid</td></tr>
+  <tr><td>🤝 <b>Up for</b></td><td>Freelance projects · side-projects · collaborations worth doing</td></tr>
 </table>
 
 ---
@@ -162,4 +162,4 @@ Feature delivery on a React Native app for the catering industry. GraphQL integr
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/Let%27s%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-muniz)
 [![Email](https://img.shields.io/badge/Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernando.munizz89@gmail.com)
 
-> **Recruiters & founders:** fastest path is a 2-line email with project, stack and timeline. Usually reply same day.
+> Got a project worth building? Send a 2-line email with the idea, stack and timeline. I usually reply the same day.
