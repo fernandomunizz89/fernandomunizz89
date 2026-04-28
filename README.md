@@ -62,7 +62,7 @@ These days I freelance, take on selected client work, and spend the rest of my t
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](#)
 [![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](#)
 [![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)](#)
-[![Styled Components](https://img.shields.io/badge/Styled-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)](#)
+[![Styled Components](https://img.shields.io/badge/Styled%20Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)](#)
 
 ### Quality
 
